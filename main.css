@@ -1,0 +1,19 @@
+html{
+    font-size: 32px;
+}
+body{
+    background-color: whitesmoke;
+    color: indigo;
+}
+
+a{
+    color: bright blue;
+}
+
+a:visited{
+    color:grey;
+}
+
+a:hover, a:active{
+    color: #333;
+}
